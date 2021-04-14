@@ -2,6 +2,7 @@
 
 Informações Básicas:
 -------------------
+<table>
 <tr>
    <th> 
 	Nome
