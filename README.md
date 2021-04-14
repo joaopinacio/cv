@@ -108,7 +108,7 @@ Habilidades:
 -------------------
 <tr>
    <td>
-   • Facilidade em logica de Programação. <br>
+   • Facilidade em lógica de Programação. <br>
    • Trabalho em equipe sempre ajudando e compartilhando aprendizado. <br>
    • Capacidade de ter reuniões com clientes para mostrar como está indo o projeto (Metodologia Ágil). <br>
    • Organização de Código. <br>
