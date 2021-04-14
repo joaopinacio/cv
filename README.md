@@ -136,19 +136,19 @@ Experiência:
 
 <tr>
    <td>
-	Linguagem PHP
+	Dart - Flutter
    </td>
    <td>
-	2 anos e 5 meses
+	2 meses
    </td>
    <td>
-	Atuei na aréa de Back-end desenvolvendo sistemas que usam PHP como Linguagem principal para a estrutura, escrevendo Models, 		Views, Controllers e DAO para a arquitetura do Projeto (MVC)
+	Atuei na areá de mobile utilizando a Linguagem Dart com a ajuda do framework Flutter para desenvolver funções 		interativas e intarface para os usuários.
    </td>
 </tr>
 
 <tr>
    <td>
-	Linguagem JavaScript (com Jquery)
+	JavaScript (com Jquery)
    </td>
    <td>
 	2 anos e 8 meses
@@ -160,7 +160,7 @@ Experiência:
 
 <tr>
    <td>
-	Linguagem HTML
+	HTML
    </td>
    <td>
 	2 anos e 8 meses
@@ -172,7 +172,7 @@ Experiência:
 
 <tr>
    <td>
-	Linguagem CSS
+	CSS
    </td>
    <td>
 	2 anos e 8 meses
@@ -184,7 +184,19 @@ Experiência:
 
 <tr>
    <td>
-	Linguagem Java
+	PHP
+   </td>
+   <td>
+	2 anos e 5 meses
+   </td>
+   <td>
+	Atuei na aréa de Back-end desenvolvendo sistemas que usam PHP como Linguagem principal para a estrutura, escrevendo Models, 		Views, Controllers e DAO para a arquitetura do Projeto (MVC)
+   </td>
+</tr>
+
+<tr>
+   <td>
+	Java
    </td>
    <td>
 	6 meses
@@ -196,7 +208,7 @@ Experiência:
 
 <tr>
    <td>
-	Linguagem Flex
+	Flex
    </td>
    <td>
 	1 mês
@@ -208,7 +220,7 @@ Experiência:
 
 <tr>
    <td>
-	Linguagem SQL
+	SQL
    </td>
    <td>
 	2 anos e 8 meses
