@@ -77,7 +77,7 @@ Formação:
 	Ciência da Computação
    </td>
    <td>
-	Fevereiro de 2017 - Dezembro de 2020
+	Fevereiro de 2017 - Julho de 2021
    </td>
    <td>
 	7º
