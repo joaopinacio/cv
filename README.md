@@ -238,7 +238,7 @@ Experiência:
 	2 anos e 10 meses
    </td>
    <td>
-	Trabalhei em uma equipe onde utilizavamos Scrum como Metodologia Ágil, onde tinhamos 2 semanas para fecharmos uma (Sprint), 		reuniões diárias para saber como cada pessoa da equipe estava em sua demanda e se precisava de alguma ajuda para remover seus 		impedimentos, reuniões com os clientes fazendo pequenas entregas para que o desenvolvimento do sistema esteja andando como 		planejado.
+	Trabalhei em uma equipe onde utilizavamos Scrum como Metodologia Ágil e atuei como Scrum Master de um time, onde tinhamos 2 semanas para fecharmos uma (Sprint), 		reuniões diárias para saber como cada pessoa da equipe estava em sua demanda e se precisava de alguma ajuda para remover seus 		impedimentos, reuniões com os clientes fazendo pequenas entregas para que o desenvolvimento do sistema esteja andando como 		planejado.
    </td>
 </tr>
 
