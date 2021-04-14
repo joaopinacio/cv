@@ -120,6 +120,36 @@ Habilidades:
 
 <table>
 
+Certificados:
+-------------------
+<tr>
+   <th> 
+	Nome
+   </th>
+   <th> 
+	Data de emissão
+   </th>
+   <th> 
+	Link
+   </th>
+</tr>
+
+<tr>
+   <td>
+	Certified ScrumMaster® (CSM®)
+   </td>
+   <td>
+	Novembro de 2020
+   </td>
+   <td>
+	http://bcert.me/slnywpsgk
+   </td>
+</tr>
+
+</table>
+
+<table>
+
 Experiência:
 -------------------
 <tr>
