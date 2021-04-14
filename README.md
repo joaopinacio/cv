@@ -146,6 +146,54 @@ Certificados:
    </td>
 </tr>
 
+<tr>
+   <td>
+	Scrum Foundation Professional Certificate (SFPC)
+   </td>
+   <td>
+	Janeiro de 2019
+   </td>
+   <td>
+	https://bit.ly/3wTuuZ3
+   </td>
+</tr>
+
+<tr>
+   <td>
+	Jquery Course Certificate
+   </td>
+   <td>
+	Setembro de 2019
+   </td>
+   <td>
+	https://bit.ly/3dh1eDV
+   </td>
+</tr>
+
+<tr>
+   <td>
+	PHP Course Certificate
+   </td>
+   <td>
+	Agosto de 2019
+   </td>
+   <td>
+	https://bit.ly/2RAAFBl
+   </td>
+</tr>
+
+<tr>
+   <td>
+	Java Course Certificate
+   </td>
+   <td>
+	Abril de 2018
+   </td>
+   <td>
+	https://bit.ly/3x4Zq94
+   </td>
+</tr>
+
 </table>
 
 <table>
