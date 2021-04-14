@@ -283,6 +283,14 @@ Idiomas:
 
 <tr>
    <td>
+	Português
+   </td>
+   <td>
+	Nativa
+   </td>
+</tr>
+<tr>
+   <td>
 	Inglês
    </td>
    <td>
