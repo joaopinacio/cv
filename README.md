@@ -26,7 +26,7 @@ Informações Básicas:
 	João Pedro Inácio Florentino
    </td>
    <td>
-	22
+	23
    </td>
    <td>
 	joaopedro.triun@gmail.com
