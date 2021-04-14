@@ -214,7 +214,7 @@ Experiência:
 	2 anos e 8 meses
    </td>
    <td>
-	Atuei na aréa de Banco de Dados onde desenvolvi a estrutura de Tabelas de Projeto novos ,sendo em Oracle e MySQL, onde obtive 		prática em relacionamento de tabelas e funções do SQL em geral.
+	Atuei na aréa de Banco de Dados onde desenvolvi a estrutura de Tabelas de Projeto novos ,sendo em Oracle, MySQL e Postgres, onde obtive 		prática em relacionamento de tabelas e funções do SQL em geral.
    </td>
 </tr>
 
