@@ -298,7 +298,7 @@ Idiomas:
 	Português
    </td>
    <td>
-	Nativa
+	Nativo
    </td>
 </tr>
 <tr>
