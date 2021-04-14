@@ -139,7 +139,7 @@ Experiência:
 	Linguagem PHP
    </td>
    <td>
-	1 ano e 2 meses
+	2 anos e 5 meses
    </td>
    <td>
 	Atuei na aréa de Back-end desenvolvendo sistemas que usam PHP como Linguagem principal para a estrutura, escrevendo Models, 		Views, Controllers e DAO para a arquitetura do Projeto (MVC)
@@ -151,7 +151,7 @@ Experiência:
 	Linguagem JavaScript (com Jquery)
    </td>
    <td>
-	1 ano e 5 meses
+	2 anos e 8 meses
    </td>
    <td>
 	Atuei na areá de Front-end utilizando a Linguagem JavaScript com a ajuda da biblioteca Jquery para desenvolver as funções 		interativas para os usuários.
@@ -163,7 +163,7 @@ Experiência:
 	Linguagem HTML
    </td>
    <td>
-	1 ano e 5 meses
+	2 anos e 8 meses
    </td>
    <td>
 	Atuei na areá de Front-end utilizando a Linguagem HTML com a ajuda do Framework Semantic UI para desenvolver a parte de UI e UX 	dos sistemas.
@@ -175,7 +175,7 @@ Experiência:
 	Linguagem CSS
    </td>
    <td>
-	1 ano e 5 meses
+	2 anos e 8 meses
    </td>
    <td>
 	Atuei na areá de Front-end utilizando a Linguagem CSS com a ajuda do Framework Semantic UI para desenvolver a parte de UI e UX 		dos sistemas.
@@ -187,7 +187,7 @@ Experiência:
 	Linguagem Java
    </td>
    <td>
-	2 meses
+	6 meses
    </td>
    <td>
 	Atuei na aréa de Back-end desenvolvendo sistemas que usam Java como Linguagem principal para a estrutura, escrevendo Models, 		Views, Controllers e DAO para a arquitetura do Projeto (MVC) e comecei a desenvolver meus primeiros projetos na Faculdade.
@@ -211,7 +211,7 @@ Experiência:
 	Linguagem SQL
    </td>
    <td>
-	1 ano e 5 meses
+	2 anos e 8 meses
    </td>
    <td>
 	Atuei na aréa de Banco de Dados onde desenvolvi a estrutura de Tabelas de Projeto novos ,sendo em Oracle e MySQL, onde obtive 		prática em relacionamento de tabelas e funções do SQL em geral.
@@ -223,7 +223,7 @@ Experiência:
 	Metodologia Ágil Scrum
    </td>
    <td>
-	1 ano e 5 meses
+	3 anos
    </td>
    <td>
 	Trabalhei em uma equipe onde utilizavamos Scrum como Metodologia Ágil, onde tinhamos 2 semanas para fecharmos uma (Sprint), 		reuniões diárias para saber como cada pessoa da equipe estava em sua demanda e se precisava de alguma ajuda para remover seus 		impedimentos, reuniões com os clientes fazendo pequenas entregas para que o desenvolvimento do sistema esteja andando como 		planejado.
@@ -235,7 +235,7 @@ Experiência:
 	Sistema Operacional Linux (Servidor)
    </td>
    <td>
-	1 ano e 5 meses
+	3 anos
    </td>
    <td>
 	Obtive prática na parte de Publição via FTP para o servidor com sistema Linux, mudanças de permissões de arquivos e pastas, 		comandos em geral.
@@ -247,7 +247,7 @@ Experiência:
 	Sistema Operacional Mac Os (Ambiente de Trabalho)
    </td>
    <td>
-	1 ano e 5 meses
+	3 anos
    </td>
    <td>
 	Obtive prática em computadores Mac pois é onde eu passo a maior parte do tempo desenvolvendo.
@@ -259,7 +259,7 @@ Experiência:
 	Controle de versão
    </td>
    <td>
-	1 ano e 5 meses
+	3 anos
    </td>
    <td>
 	Git e SVN
