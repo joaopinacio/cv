@@ -151,7 +151,7 @@ Experiência:
 	JavaScript (com Jquery)
    </td>
    <td>
-	2 anos e 8 meses
+	2 anos e 10 meses
    </td>
    <td>
 	Atuei na areá de Front-end utilizando a Linguagem JavaScript com a ajuda da biblioteca Jquery para desenvolver as funções 		interativas para os usuários.
@@ -163,7 +163,7 @@ Experiência:
 	HTML
    </td>
    <td>
-	2 anos e 8 meses
+	2 anos e 10 meses
    </td>
    <td>
 	Atuei na areá de Front-end utilizando a Linguagem HTML com a ajuda do Framework Semantic UI para desenvolver a parte de UI e UX 	dos sistemas.
@@ -175,7 +175,7 @@ Experiência:
 	CSS
    </td>
    <td>
-	2 anos e 8 meses
+	2 anos e 10 meses
    </td>
    <td>
 	Atuei na areá de Front-end utilizando a Linguagem CSS com a ajuda do Framework Semantic UI para desenvolver a parte de UI e UX 		dos sistemas.
@@ -235,7 +235,7 @@ Experiência:
 	Metodologia Ágil Scrum
    </td>
    <td>
-	3 anos
+	2 anos e 10 meses
    </td>
    <td>
 	Trabalhei em uma equipe onde utilizavamos Scrum como Metodologia Ágil, onde tinhamos 2 semanas para fecharmos uma (Sprint), 		reuniões diárias para saber como cada pessoa da equipe estava em sua demanda e se precisava de alguma ajuda para remover seus 		impedimentos, reuniões com os clientes fazendo pequenas entregas para que o desenvolvimento do sistema esteja andando como 		planejado.
@@ -247,7 +247,7 @@ Experiência:
 	Sistema Operacional Linux (Servidor)
    </td>
    <td>
-	3 anos
+	2 anos e 10 meses
    </td>
    <td>
 	Obtive prática na parte de Publição via FTP para o servidor com sistema Linux, mudanças de permissões de arquivos e pastas, 		comandos em geral.
@@ -259,7 +259,7 @@ Experiência:
 	Sistema Operacional Mac Os (Ambiente de Trabalho)
    </td>
    <td>
-	3 anos
+	2 anos e 10 meses
    </td>
    <td>
 	Obtive prática em computadores Mac pois é onde eu passo a maior parte do tempo desenvolvendo.
